@@ -6,5 +6,4 @@
 
 В окне терминала выполнить последовательно:
 
-`git clone https://github.com/libmonsoon-dev/web.git`
-`cd web && bash init.sh`
+`git clone https://github.com/libmonsoon-dev/web.git && cd web && bash init.sh`
